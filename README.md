@@ -17,6 +17,6 @@ NewsApp is a modern Android application built with Jetpack Compose, following th
 * Hilt: For Dependency Injection.
 
 ## Screenshots
-![Screenshot_20240824_014211](https://github.com/user-attachments/assets/5f5c8013-cab3-41f4-81e3-06f4d198804b)
+![Screenshot_20240824_014211(1)](https://github.com/user-attachments/assets/e8fadce3-fa12-484d-9a87-7560e5b6273f)
 ![Screenshot_20240824_014419](https://github.com/user-attachments/assets/a05e9750-6a5e-4085-a6b5-b6518c216015)
 ![Screenshot_20240824_014437](https://github.com/user-attachments/assets/474b49fb-b6b8-4522-b585-b002a1ea370b)
